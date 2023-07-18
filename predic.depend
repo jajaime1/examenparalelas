@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1689566431 source:c:\users\ugaz_\desktop\paralelas\predic\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	<time.h>
+	<cstring>
+	<cmath>
+	<omp.h>
+	<stdio.h>
+	<ctime>
+	<stdlib.h>
+	<Windows.h>
+
